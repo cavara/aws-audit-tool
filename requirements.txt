@@ -1,0 +1,3 @@
+boto3[crt]
+moto[s3,ec2]
+pytest
